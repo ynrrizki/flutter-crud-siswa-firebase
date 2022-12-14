@@ -32,6 +32,7 @@ class _HomePageState extends State<HomePage> {
         },
         child: const Icon(Icons.add),
       ),
+      // firebase code
       // body: StreamBuilder(
       //   stream: StudentService.getAll(),
       //   builder: (context, snapshot) {
